@@ -1,0 +1,1 @@
+I made this game during my time at FH Salzburg in 2013. Back then I had limited experience with C++ but overall the code is pretty readable.
